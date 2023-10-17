@@ -1,0 +1,32 @@
+.container{
+    background-color: #FFF5EE;
+}
+
+span{
+    color: brown;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.Trending .card .img a{
+    text-decoration: none;
+    color: black;
+}
+
+.Trending .card .img p{
+    font-size: 1.5vw;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.footer{
+    position: sticky;
+    top: 0100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: transparent;
+    font-size: 1.5vw;
+}

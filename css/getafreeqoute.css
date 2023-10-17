@@ -1,0 +1,82 @@
+.landing-page .get-a-qoute{
+    position: absolute;
+    width: 60vw;
+    height: auto;
+    /* background-color: aqua; */
+    top: 15%;
+    left: 20%;
+    z-index: 1;
+    
+}
+
+ .landing-page .get-a-qoute .header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.landing-page .get-a-qoute .header h2{
+    font-size: 2vw;
+}
+
+.landing-page .get-a-qoute .form-area{
+    height: auto;
+    width: 100%;    
+    background-color: bisque;
+    display: flex;
+}
+
+.landing-page .get-a-qoute .form-area .img-area{
+    width: 60%;
+    height: 63vh;
+    background-color: black;
+}
+
+.landing-page .get-a-qoute .form-area .contact-area{
+    height: auto;
+    width: 40%;
+    /* background-color: brown; */
+    padding: 10px;
+
+}
+
+.landing-page .get-a-qoute .form-area .contact-area label{
+    font-size: 18px;
+
+    margin:0 5px;
+}
+
+.landing-page .get-a-qoute .form-area .contact-area input, select{
+    margin: 5px 0 15px 0;
+    width: 95%;
+    position: relative;
+    left: 1.5%;
+    padding: 8px 10px;
+    
+} 
+
+.landing-page .get-a-qoute .form-area .contact-area .button-section{
+    height: 8vh;
+    width: 100%;
+    /* border: 2px black solid; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+    /* gap: 5vw; */
+    padding: 10px;
+}
+
+.landing-page .get-a-qoute .form-area .contact-area button{
+    border-radius: 20px;
+    padding: 10px 30px;
+    outline: none;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+    font-size: 1vw;
+}
+
+

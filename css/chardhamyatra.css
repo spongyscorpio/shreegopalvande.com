@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+
+.container {
+    /* color: white; */
+    height: auto;
+    width: 100vw;
+    transition: all 0.3s;
+    background-color: #FFF5EE;
+    /* background-image: url("../img/chardham/bg.jpg");
+    background-size: cover;
+    background-position: center; */
+}
+
+.container header {
+    height: 70px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: red;
+}
+
+.landing-page {
+    height: auto;
+    /* border: 2px black solid; */
+    display: flex;
+    /* padding: 50px; */
+}
+
+/* .left-area {
+    border: 1px black solid;
+    height: 80vh;
+    width: 20%;
+    margin-right: 20px;
+    
+}
+
+.left-area img{
+    height: 100%;
+    width: 100%;
+     
+}
+
+*/
+
+
+.pakage-area {
+    /* border: 1px red solid; */
+    height: auto;
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.pakages{
+    width: 100%;
+    height: 30vh;
+    border: 1px black solid;
+    margin: 25px 0;
+    display: flex;
+
+}
+
+.pakages .img-section {
+    width: 30%;
+    height: 100%;
+    /* border: 1px black solid; */
+}
+
+.pakages .img-section img {
+    width: 100%;
+    height: 100%;
+}
+
+.pakages .info-section {
+    width: 50%;
+    height: 100%;
+    /* border: 1px black solid; */
+
+}
+
+.info-section h2 {
+    padding: 20px 20px 10px 20px;
+    position: relative;
+    left: 5%;
+    font-size: 2vw;
+}
+
+.info-section h3 {
+    position: relative;
+    margin-left: 9%;
+    padding-bottom: 8px;
+}
+
+.pakages .button-section {
+    width: 20%;
+    height: 100%;
+    /* border: 1px black solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.button-section p {
+    font-size: 1.2vw;
+
+}
+
+.button-section a, button {
+    border-radius: 25px;
+    padding: 12px 15px;
+    cursor: pointer;
+    font-size: 0.9vw;
+    outline: none;
+    border: none;
+    background-color: #555555;
+    color: white;
+}
+
+.button-section a{
+    text-decoration: none;
+}
+
+.contact-us{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-us .map-area{
+    width: 80%;
+    height: 60vh;
+    /* border: 1px black solid; */
+}
+
+.contact-us .contact-area{
+    width: 100%;
+    height: 30vh;
+    /* border: 5px brown solid; */
+    background: #253c40;
+    color: white;
+    display: flex;
+    
+}
+
+.contact-us .map-area iframe{
+    width: 100% ;
+    height: 100%;
+    padding: 30px 10px;
+    border-radius: 30px;
+    filter: invert(100%);
+}
+
+.contact-area .logo{
+    width: 20%;
+    height: 100%;
+    /* border: 1px black solid; */
+
+}
+
+.contact-area .address{
+    width: 30%;
+    height: 100%;
+    /* border: 1px black solid; */
+    position: relative;
+    padding: 30px;
+}
+
+.contact-area .address h1{
+    font-size: 3.5vw;
+    color: brown;
+}
+
+.contact-area .address p{
+    font-size: 1.4vw;
+    font-weight: 100;
+    padding: 10px 0;
+}
+
+.contact-area .address h4{
+    font-size: 1.2vw;
+    
+}

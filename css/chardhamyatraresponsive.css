@@ -1,0 +1,401 @@
+@media(max-width:720px) {
+    .landing-page .pakage-area {
+        /* border: 2px red solid; */
+        width: 90%;
+        height: auto;
+        
+    }
+
+    .landing-page .pakage-area .pakages{
+        width: 100%;
+        height: 15vh;
+        /* border: 4px brown solid; */
+    }
+
+    .pakage-area .pakages .info-section{
+        /* border: 4px brown solid; */
+        width: 45%;
+    }
+
+    .pakages .info-section h2{
+        font-size: 3.5vw;
+        padding: 10px;
+        /* border: 1px black solid; */
+        left: 0%;
+    }
+
+    .info-section h3 {
+        
+        /* border: 1px black solid; */
+        font-size: 2.5vw;
+    }
+    .pakage-area .pakages .button-section{
+        width: 30%;
+        padding: 5px;
+        /* border: 1px black solid; */
+    }
+
+   
+
+    .pakages .button-section p {
+        font-size: 2.5vw;
+    
+    }
+    .pakages .button-section a {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .pakages .button-section button {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .container .contact-us .map-area{
+        width: 90vw;
+        height: 30vh;
+        /* border: 1px black solid; */
+    }
+
+    .container .contact-us .map-area iframe{
+        width: 100% ;
+        height: 100%;
+        padding: 10px 0;
+        border-radius: 30px;
+        filter: invert(100%);
+    }
+
+    .container .contact-us .contact-area{
+        height: 15vh;
+    }
+
+    .container .contact-us .contact-area .address{
+        /* border: 1px black solid; */
+        padding: 10px;
+        width: 40%;
+    }
+
+    .container .contact-us .contact-area .address h1{
+        font-size: 5vw;
+        color: brown;
+    }
+
+    .container .contact-us .contact-area .address p{
+        font-size: 2.5vw;
+        font-weight: 0;
+        padding: 10px 0;
+    }
+
+    .container .contact-us .contact-area .address h4{
+        font-size: 2.5vw;
+        
+    }
+    
+
+}@media(max-width:720px) {
+    .landing-page .pakage-area {
+        /* border: 2px red solid; */
+        width: 90%;
+        height: auto;
+        
+    }
+
+    .landing-page .pakage-area .pakages{
+        width: 100%;
+        height: 15vh;
+        /* border: 4px brown solid; */
+    }
+
+    .pakage-area .pakages .info-section{
+        /* border: 4px brown solid; */
+        width: 45%;
+    }
+
+    .pakages .info-section h2{
+        font-size: 3.5vw;
+        padding: 10px;
+        /* border: 1px black solid; */
+        left: 0%;
+    }
+
+    .info-section h3 {
+        
+        /* border: 1px black solid; */
+        font-size: 2.5vw;
+    }
+    .pakage-area .pakages .button-section{
+        width: 30%;
+        padding: 5px;
+        /* border: 1px black solid; */
+    }
+
+   
+
+    .pakages .button-section p {
+        font-size: 2.5vw;
+    
+    }
+    .pakages .button-section a {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .pakages .button-section button {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .container .contact-us .map-area{
+        width: 90vw;
+        height: 30vh;
+        /* border: 1px black solid; */
+    }
+
+    .container .contact-us .map-area iframe{
+        width: 100% ;
+        height: 100%;
+        padding: 10px 0;
+        border-radius: 30px;
+        filter: invert(100%);
+    }
+
+    .container .contact-us .contact-area{
+        height: 15vh;
+    }
+
+    .container .contact-us .contact-area .address{
+        /* border: 1px black solid; */
+        padding: 10px;
+        width: 40%;
+    }
+
+    .container .contact-us .contact-area .address h1{
+        font-size: 5vw;
+        color: brown;
+    }
+
+    .container .contact-us .contact-area .address p{
+        font-size: 2.5vw;
+        font-weight: 0;
+        padding: 10px 0;
+    }
+
+    .container .contact-us .contact-area .address h4{
+        font-size: 2.5vw;
+        
+    }
+    
+
+}@media(max-width:720px) {
+    .landing-page .pakage-area {
+        /* border: 2px red solid; */
+        width: 90%;
+        height: auto;
+        
+    }
+
+    .landing-page .pakage-area .pakages{
+        width: 100%;
+        height: 15vh;
+        /* border: 4px brown solid; */
+    }
+
+    .pakage-area .pakages .info-section{
+        /* border: 4px brown solid; */
+        width: 45%;
+    }
+
+    .pakages .info-section h2{
+        font-size: 3.5vw;
+        padding: 10px;
+        /* border: 1px black solid; */
+        left: 0%;
+    }
+
+    .info-section h3 {
+        
+        /* border: 1px black solid; */
+        font-size: 2.5vw;
+    }
+    .pakage-area .pakages .button-section{
+        width: 30%;
+        padding: 5px;
+        /* border: 1px black solid; */
+    }
+
+   
+
+    .pakages .button-section p {
+        font-size: 2.5vw;
+    
+    }
+    .pakages .button-section a {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .pakages .button-section button {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .container .contact-us .map-area{
+        width: 90vw;
+        height: 30vh;
+        /* border: 1px black solid; */
+    }
+
+    .container .contact-us .map-area iframe{
+        width: 100% ;
+        height: 100%;
+        padding: 10px 0;
+        border-radius: 30px;
+        filter: invert(100%);
+    }
+
+    .container .contact-us .contact-area{
+        height: 15vh;
+    }
+
+    .container .contact-us .contact-area .address{
+        /* border: 1px black solid; */
+        padding: 10px;
+        width: 40%;
+    }
+
+    .container .contact-us .contact-area .address h1{
+        font-size: 5vw;
+        color: brown;
+    }
+
+    .container .contact-us .contact-area .address p{
+        font-size: 2.5vw;
+        font-weight: 0;
+        padding: 10px 0;
+    }
+
+    .container .contact-us .contact-area .address h4{
+        font-size: 2.5vw;
+        
+    }
+    
+
+}@media(max-width:720px) {
+    .landing-page .pakage-area {
+        /* border: 2px red solid; */
+        width: 90%;
+        height: auto;
+        
+    }
+
+    .landing-page .pakage-area .pakages{
+        width: 100%;
+        height: 15vh;
+        /* border: 4px brown solid; */
+    }
+
+    .pakage-area .pakages .info-section{
+        /* border: 4px brown solid; */
+        width: 45%;
+    }
+
+    .pakages .info-section h2{
+        font-size: 3.5vw;
+        padding: 10px;
+        /* border: 1px black solid; */
+        left: 0%;
+    }
+
+    .info-section h3 {
+        
+        /* border: 1px black solid; */
+        font-size: 2.5vw;
+    }
+    .pakage-area .pakages .button-section{
+        width: 30%;
+        padding: 5px;
+        /* border: 1px black solid; */
+    }
+
+   
+
+    .pakages .button-section p {
+        font-size: 2.5vw;
+    
+    }
+    .pakages .button-section a {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .pakages .button-section button {
+        border-radius: 25px;
+        padding: 5px 7px;
+        cursor: pointer;
+        font-size: 1.9vw;
+        color: white;
+    }
+
+    .container .contact-us .map-area{
+        width: 90vw;
+        height: 30vh;
+        /* border: 1px black solid; */
+    }
+
+    .container .contact-us .map-area iframe{
+        width: 100% ;
+        height: 100%;
+        padding: 10px 0;
+        border-radius: 30px;
+        filter: invert(100%);
+    }
+
+    .container .contact-us .contact-area{
+        height: 15vh;
+    }
+
+    .container .contact-us .contact-area .address{
+        /* border: 1px black solid; */
+        padding: 10px;
+        width: 40%;
+    }
+
+    .container .contact-us .contact-area .address h1{
+        font-size: 5vw;
+        color: brown;
+    }
+
+    .container .contact-us .contact-area .address p{
+        font-size: 2.5vw;
+        font-weight: 0;
+        padding: 10px 0;
+    }
+
+    .container .contact-us .contact-area .address h4{
+        font-size: 2.5vw;
+        
+    }
+    
+
+}
