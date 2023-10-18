@@ -12,21 +12,57 @@
 }
 
 header {
-    height: 5vh;
+    height: 70px;
     width: 100%;
-    background-color: red;
+    background-color: black;
+    /* padding: 10px 0; */
+    padding: 0;
+    color: aqua; 
+    display: flex;
+    justify-content: space-between;
+}
+
+header .logo {
+    height: 100%;
+    width: 15vw;
+
+    display: flex;
+    justify-content: center;
+}
+
+header .logo img{
+    height: 80%;
+    width: 50%;
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+header .nav-bar{
+    width: 20vw;
+    height: 100%;
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .nav-bar a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 .container .page-info-tab {
     height: auto;
     width: 100%;
-    background-color: aqua;
+    /* background-color: aqua; */
 
 }
 
 .container .page-info-tab h4 {
     font-size: 1.2rem;
-    padding: 10px 20px;
+    padding: 5px 20px;
 }
 
 .container .main {
@@ -305,7 +341,7 @@ select {
     display: flex;
     justify-content: center;
     padding: 0;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     /* margin: 0 auto; */
 }
 
