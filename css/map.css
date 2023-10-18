@@ -1,0 +1,12 @@
+
+
+.map-section{
+    width: 100%;
+    height: 60vh;
+    /* border: 2px black solid; */
+}
+
+.map-section iframe{
+    width: 100%;
+    height: 100%;
+}

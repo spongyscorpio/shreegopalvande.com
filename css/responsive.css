@@ -253,76 +253,9 @@
         font-size: 2.5vw;
 
     }
+    
 
 
-    .map-section {
-        width: 100%;
-        height: 40vh;
-    }
 
-    .container footer {
-        height: 20vh;
-
-    }
-
-    .left-section {
-        /* border: 2px white solid; */
-        width: 60%;
-    }
-
-    .left-section .company-logo {
-        /* border: 2px brown solid; */
-        height: 100%;
-    }
-
-    .left-section .company-info p {
-        font-size: 2.5vw;
-        margin: 0;
-        padding: 0;
-    }
-
-    .left-section .company-logo img {
-        /* border: 2px brown solid; */
-        height: 60%;
-    }
-
-    .left-section .company-info h2 {
-
-        font-size: 3.5vw;
-        /* border: 2px brown solid; */
-    }
-
-    .left-section .company-info .fa-solid {
-        margin: 0 10px 0 10px;
-        font-size: 3.5vw;
-        /* border: 2px brown solid; */
-    }
-
-    .left-section .company-info .fa-location-dot {
-
-        font-size: 4vw;
-        margin: 0 10px 0 10px;
-        /* border: 2px brown solid; */
-    }
-
-    .right-section {
-        /* border: 2px white solid; */
-        background-color: black;
-        width: 40%;
-    }
-
-
-    .created-by {
-        height: 10vh;
-        width: 100%;
-        /* background-color: green; */
-    }
-
-    .created-by p {
-        font-size: 2.5vw;
-        color: white;
-        padding: 5px 0;
-        /*  */
-    }
 
 }
